@@ -1,0 +1,4 @@
+Name,Mass (kg),Radius(km),"Position (km,km)"
+Star0,2e+30,700000.0,"(0, 0)"
+Planet0,6e+24,6000.0,"(150000000.0, 1)"
+Rock0,0,0,"(150000000.0, 0)"
